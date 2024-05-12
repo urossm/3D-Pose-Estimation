@@ -1,0 +1,5 @@
+autopep8==1.5.4
+dataclasses==0.8
+numpy==1.19.4
+opencv-python==3.4.9.31
+pyrealsense2==2.40.0.2483
