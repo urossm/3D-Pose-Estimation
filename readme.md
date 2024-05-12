@@ -5,6 +5,7 @@ It includes features for for camera calibration, video undistortion, motion reco
 
 ## Usage and Features
 
+- **SOURCE FILES**: Download source files from my Google Drive because it was too large for GitHub (https://drive.google.com/drive/folders/13LgNRNZ5iUbON0s7Uxzq4yXxqST7OSD1?usp=sharing)
 - **Camera Calibration**: Calibrate camera and export intrinsix matrix in YAML file
 - **Video Lens Undistortion**: Undistort lens curvature in video from camera calibration files
 - **Camera Extrinsic Matrix**: Detect camera position in 3D space and export extrinsic matrix in YAML file
@@ -28,8 +29,9 @@ It includes features for for camera calibration, video undistortion, motion reco
 ## Installation
 
 1. Clone the repository
-2. Install the required dependencies from requirements.txt
-3. Run and have fun :)
+2. Download source files from my Google Drive because it was too large for GitHub (https://drive.google.com/drive/folders/13LgNRNZ5iUbON0s7Uxzq4yXxqST7OSD1?usp=sharing)
+3. Install the required dependencies from requirements.txt
+4. Run and have fun :)
 
 
 
