@@ -19,7 +19,7 @@ It includes features for for camera calibration, video undistortion, motion reco
 
 - Result video with estimated poses is in **_RESULTS_** folder:
 
-![Result video](https://raw.githubusercontent.com/urossm/3D-Pose-Estimation/main/RESULTS/thumbnail.png)
+![Result video](https://raw.githubusercontent.com/urossm/3D-Pose-Estimation/main/RESULTS/result.gif)
 
 ## Requirements
 
